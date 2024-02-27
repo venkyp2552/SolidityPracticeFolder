@@ -27,3 +27,6 @@ contract EnumPracticeSc{
     }
 }
 
+//Here toGetLargestValue this one will us from enum which is the highest index value lets say sitTill text has highest index value which means 3 like lease 0 only
+
+
